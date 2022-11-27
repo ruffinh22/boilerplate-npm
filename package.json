@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruffinh22/boilerplate-npm/blob/main/package.json"
+    "url": "https://github.com/ruffinh22/boilerplate-npm/package.json"
   }
 }
